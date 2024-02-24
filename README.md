@@ -5,7 +5,7 @@ Bem-vindo ao meu perfil do GitHub! Estou animado para compartilhar meus projetos
 ## Sobre Mim
 
 - 👀 Meus interesses incluem desenvolvimento de software, inteligência artificial e cibersegurança.
-- 🌱 Atualmente estou aprendendo novas tecnologias e aprimorando meus conhecimentos, com foco em [insira uma linguagem aqui].
+- 🌱 Atualmente estou aprendendo novas tecnologias e aprimorando meus conhecimentos, com foco em [React Native].
 - 💞️ Estou procurando colaborar em projetos open source ou projetos interessantes.
 - 📫 Você pode entrar em contato comigo via Discord em gabrielsam.
 
